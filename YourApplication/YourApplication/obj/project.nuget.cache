@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPMlIjYY07LFRpgEpKnln0+4yGm1ikaFxd5ogQu7xl1wLYCuC0l9P+/j979Rz+8hofJUGJGbcz0lKypm/o1H+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sexyg\\source\\repos\\YourApplication\\YourApplication\\YourApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sexyg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\sexyg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\sexyg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\sexyg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

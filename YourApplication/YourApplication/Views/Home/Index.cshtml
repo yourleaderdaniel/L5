@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Set Cookie</h2>
+
+<form asp-controller="Home" asp-action="SetCookie" method="post">
+    <div class="form-group">
+        <label for="value">Value:</label>
+        <input type="text" id="value" name="value" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label for="expireTime">Expire Time:</label>
+        <input type="datetime-local" id="expireTime" name="expireTime" class="form-control" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Set Cookie</button>
+</form>

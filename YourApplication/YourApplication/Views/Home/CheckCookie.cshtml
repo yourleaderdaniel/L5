@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Check Cookie";
+}
+
+<h2>Check Cookie</h2>
+
+@if (ViewBag.HasFormData == true)
+{
+    <p>Value: @ViewBag.Value</p>
+    <p>Expire Time: @ViewBag.ExpireTime</p>
+}
+else
+{
+    <p>No cookie value found or cookie has expired.</p>
+}

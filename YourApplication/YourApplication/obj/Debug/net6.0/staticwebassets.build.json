@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "iesgn2L6uSafTHsBXMsPWYmSbgNitg5GK4xNVwHrMBU=",
+  "Source": "YourApplication",
+  "BasePath": "_content/YourApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "YourApplication\\wwwroot",
+      "Source": "YourApplication",
+      "ContentRoot": "C:\\Users\\sexyg\\source\\repos\\YourApplication\\YourApplication\\wwwroot\\",
+      "BasePath": "_content/YourApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
